@@ -1,6 +1,5 @@
 # Football_Stats
 
-![bigDataimage]([file:///C:/Users/Lucas/PycharmProjects/API-FOOT/logo.jpg](https://www.google.com/search?q=image+foot&&tbm=isch&ved=2ahUKEwiWn_TYkeb8AhVoTaQEHUsbD_gQ2-cCegQIABAA&oq=image+foot&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEOoCECc6BAgjECc6CAgAEIAEELEDOgQIABBDOgcIABCxAxBDUN4LWMc8YPpCaAFwAHgAgAFgiAGbB5IBAjExmAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=DevSY9bkF-iakdUPy7a8wA8&bih=722&biw=1536#imgrc=B0TaIWXbts0PcM)
 
 
 # Description 
