@@ -5,15 +5,15 @@
 
 # Description 
 
-Le Football est un sport collectif très populaire notament en période de coupe du monde.
+Le Football est un sport collectif très populaire notament suite a une coupe du monde.
 Notre Projet consiste a metre en relation la statistique de la valeur des Clubs et des championnat sur des performances sportives.
 
 
 # Technologie
 
-Pycharm : Python,
-Jupyter : Python,
-Mongodb Compass
+- Pycharm : Python
+- Jupyter : Python
+- Mongodb Compass
 
 # Installation
 Tout d'abord il faut télécharger:
