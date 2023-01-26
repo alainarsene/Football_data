@@ -11,8 +11,8 @@ Notre Projet consiste a metre en relation la statistique de la valeur des Clubs 
 
 # Technologie
 
-Pycharm : Python
-Jupyter : Python
+Pycharm : Python.
+Jupyter : Python.
 Mongodb Compass
 
 # Installation
